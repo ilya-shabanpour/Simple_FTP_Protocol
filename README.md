@@ -1,1 +1,1 @@
-# A simple implementation of the FTPS protocol.
+A simple implementation of the FTPS protocol.
